@@ -252,3 +252,24 @@ Arrasta e salva — você vai querer ter isso à mão.
   Inscritos a mais viram **lista de espera da turma 2** (preço futuro maior),
   então nada se perde, mas a meta principal é lotar a turma 1 com folga.
 - Roteiro da aula e da oferta: `estrategia/mega-aula-casa-segura.md`.
+
+## 9. Nova linha do tempo (proposta de 07/10, aguardando confirmação)
+
+12/11 e 19/11 ficaram curtos. Proposta: **mega aula na quinta, 28/01/2027,
+às 20h**, nas férias escolares, quando as crianças estão em casa e o tema
+está na cabeça dos pais. A turma começa depois do Carnaval (09/02/2027).
+Alternativa: quinta, 25/02/2027 (volta às aulas).
+
+| Fase | Período | Foco |
+|---|---|---|
+| Crescimento | out–nov/2026 | 1 Reel + 1 Trial Reel por dia, ManyChat com ENGASGO/FEBRE/QUEDA, R$ 10/dia impulsionando o melhor Reel da semana |
+| Produto | out–dez/2026 | Validação clínica, MVP (Módulo 00 + 01 + GPS PCS), revisão jurídica do app |
+| Festas | dez/2026 | Conteúdo sazonal (fogos, ceia, piscina). Ativar a palavra LISTA no fim de dezembro |
+| Captação | 04–27/01/2027 | Tudo aponta para a aula. Se der, aumentar a verba nessas 3 semanas |
+| Aula + carrinho | 28/01–02/02/2027 | Mega aula e 5 dias de carrinho |
+
+**Verba de R$ 10/dia (≈ R$ 300/mês):** dá para impulsionar 1 Reel campeão
+por semana e testar públicos. Junto com o orgânico, a estimativa é de
+**300–600 inscritos** até a aula. Isso combina com uma turma de validação de
+**20–30 famílias**. Reinvestir parte do faturamento da turma 1 em anúncios
+para a turma 2.
