@@ -21,6 +21,10 @@ compradores do produto digital lançado na mega aula.**
 - Melhores horários (Metricool): **10h** em dias úteis (pico qua/qui/sex),
   segundo pico **18h**. Fim de semana rende ~metade.
 - Planos e roteiros: `estrategia/` neste repositório.
+- Vídeos a agendar: pasta do Drive "Reels para agendar - Instagram"
+  (id `15TjC70ZHYkcdNi3mznS0uCn1QE7vrEBY`).
+- Produto: R$ 497, lançado em mega aula. Sem ManyChat e sem tráfego pago
+  ainda (out/2026); meta do Israel: 3.000 inscritos.
 
 ## Regras de conteúdo
 

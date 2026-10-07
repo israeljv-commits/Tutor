@@ -194,3 +194,37 @@ Arrasta e salva — você vai querer ter isso à mão.
 - **Quarta–domingo:** agendamento no Metricool nos horários 10h e 18h.
 - **Diário (você):** 30 min respondendo comentários/DMs + 30 min de
   interação em perfis parceiros.
+
+## 7. Atualização 07/10 — realidade atual
+
+- **Sem ManyChat ainda.** Até a captação, o CTA é *salvar / compartilhar /
+  comentar*, sem palavra-chave. Para a captação (a partir de 26/10) existem
+  duas saídas:
+  1. **Grátis e nativo:** Meta Business Suite → Caixa de entrada →
+     Automações → "Palavras-chave personalizadas". Responde sozinho quando a
+     pessoa manda a palavra **no direct** (não funciona em comentário). CTA:
+     "Me manda AULA no direct".
+  2. **ManyChat (tem plano gratuito):** responde por palavra no *comentário*
+     e manda o link na DM. Converte mais. Eu escrevo todos os fluxos e
+     mensagens; você só conecta a conta.
+- **Sem tráfego ainda.** Não consigo operar o Gerenciador de Anúncios
+  diretamente. Pelo Metricool consigo ler os resultados do Meta Ads (se você
+  conectar a conta de anúncios lá) e montar cada campanha passo a passo para
+  você só clicar.
+- **Meta de 3.000 inscritos:**
+
+  | Cenário | Data da aula | Verba de anúncio | Inscritos esperados |
+  |---|---|---|---|
+  | A — manter 12/11 | 12/11 | R$ 5–8 mil | 1.000–1.500 |
+  | **B — recomendado** | **19/11 (qui)** | **R$ 10–15 mil** | **2.500–3.000** |
+  | C — sem verba | 12/11 | R$ 0 | 150–300 |
+
+  Conta do cenário B: 3.000 inscritos × 30% ao vivo = 900 pessoas × 5% de
+  conversão = cerca de 45 vendas × R$ 497 ≈ **R$ 22 mil**. Dia 19/11 também
+  evita a Black Friday (27/11), quando o custo do anúncio sobe.
+- **Como mandar os Reels:** suba os vídeos na pasta do Google Drive
+  "Reels para agendar - Instagram"
+  (https://drive.google.com/drive/folders/15TjC70ZHYkcdNi3mznS0uCn1QE7vrEBY),
+  com o nome do arquivo = número do roteiro ou tema (ex.: `01-dia-das-criancas.mp4`).
+  Para o Metricool puxar direto do Drive, o Google Drive precisa estar
+  conectado no Metricool (Configurações → Conexões).
