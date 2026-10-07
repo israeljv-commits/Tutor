@@ -228,3 +228,27 @@ Arrasta e salva — você vai querer ter isso à mão.
   com o nome do arquivo = número do roteiro ou tema (ex.: `01-dia-das-criancas.mp4`).
   Para o Metricool puxar direto do Drive, o Google Drive precisa estar
   conectado no Metricool (Configurações → Conexões).
+
+## 8. Ajustes com o produto definido (Programa Casa Segura)
+
+- **Tom da comunicação:** preparação e calma em vez de medo. Ganchos de
+  situação do dia a dia + próximo passo. Guia em
+  `.claude/skills/instagram-growth/SKILL.md`.
+- **Novo pilar de conteúdo (2x por semana): "PCS em 30 segundos".** Uma
+  situação comum resolvida com Perceber → Classificar → Seguir. Ex.: "Febre
+  às 3 da manhã: por onde começar?". Isso ensina o método antes da aula e
+  faz o público associar o seu nome a ele.
+- **Turma de validação × 3.000 inscritos.** A primeira turma tem vagas
+  limitadas pela sua capacidade de acompanhar no WhatsApp e nos encontros.
+  O número de inscritos deve sair das vagas, não o contrário:
+
+  | Vagas na turma 1 | Inscritos necessários* | Verba aproximada (R$ 3–5/inscrito) |
+  |---|---|---|
+  | 30 | ~600–1.000 | R$ 2–4 mil |
+  | 50 | ~1.000–1.700 | R$ 4–7 mil |
+  | 100 | ~2.000–3.300 | R$ 8–15 mil |
+
+  \*Considerando 30% de presença ao vivo e 5–10% de conversão.
+  Inscritos a mais viram **lista de espera da turma 2** (preço futuro maior),
+  então nada se perde, mas a meta principal é lotar a turma 1 com folga.
+- Roteiro da aula e da oferta: `estrategia/mega-aula-casa-segura.md`.

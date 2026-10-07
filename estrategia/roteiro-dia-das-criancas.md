@@ -11,8 +11,8 @@ Grave até sábado (10/10) e me mande o vídeo; eu agendo.
 
 | Tempo | Imagem | Fala | Texto na tela |
 |---|---|---|---|
-| 0–2 s | Close no seu rosto, sério, segurando um brinquedo embrulhado | "O presente do seu filho pode ser o maior perigo da casa amanhã." | **O PRESENTE PODE SER UM PERIGO** |
-| 2–6 s | Você levanta o rolo de papel vazio | "Antes de entregar, faz esse teste de 5 segundos." | **TESTE DO ROLINHO** |
+| 0–2 s | Close no seu rosto, segurando um brinquedo embrulhado | "Antes de entregar o presente do seu filho amanhã, faz esse teste de 5 segundos." | **ANTES DE ENTREGAR O PRESENTE…** |
+| 2–6 s | Você levanta o rolo de papel vazio | "Você só precisa disso aqui." | **TESTE DO ROLINHO** |
 | 6–13 s | Insert: peça pequena entrando no rolo e passando direto | "Se a peça passa por dentro do rolinho de papel higiênico, ela cabe na garganta de uma criança de até 3 anos." | **PASSOU? RISCO DE ENGASGO (até 3 anos)** |
 | 13–17 s | Insert: brinquedo grande não entra no rolo | "Não passou? Pode brincar tranquilo." | **NÃO PASSOU? ✅** |
 | 17–25 s | Você mostra a pilha de botão e um ímã pequeno | "E atenção dobrada com pilha de botão e ímã pequeno. Engoliu? Não espera sintoma: vai direto pro pronto-socorro." | **PILHA DE BOTÃO / ÍMÃ = PRONTO-SOCORRO JÁ** |
@@ -26,9 +26,9 @@ gente").
 ## Legenda
 
 ```
-O presente do seu filho pode ser o maior perigo da casa. 🎁⚠️
+Antes de entregar o presente, faz esse teste de 5 segundos. 🎁
 
-Faz o TESTE DO ROLINHO antes de entregar:
+Como fazer o TESTE DO ROLINHO:
 ✅ Pega um rolo de papel higiênico vazio
 ✅ Se a peça passa por dentro, ela cabe na garganta de uma criança de até 3 anos
 ✅ Pilha de botão e ímã pequeno: se engolir, pronto-socorro na hora, sem esperar sintoma
@@ -46,7 +46,7 @@ Feliz Dia das Crianças! 🎈
 ## Trial Reel do mesmo vídeo (12/10 às 18h)
 
 Mesmo vídeo, trocando só o gancho:
-**"Faz esse teste com o brinquedo do seu filho HOJE."**
+**"Seu filho tem menos de 3 anos? Faz esse teste com o brinquedo dele hoje."**
 Assim a gente mede qual gancho segura mais gente.
 
 ## Ajuste de agenda

@@ -112,3 +112,20 @@ técnico pelo conteúdo.
 - "Isso aqui parece exagero até acontecer com você."
 - "Uva inteira, salsicha em rodela, pipoca: o cardápio do engasgo."
 - "Seu filho está seguro com a babá? Faz essa pergunta pra ela."
+
+---
+
+## Série "PCS em 30 segundos" (2x por semana)
+
+Estrutura fixa, para o público reconhecer o método:
+**Situação (0–3 s) → P: o que perceber → C: como classificar → S: próximo
+passo e quando buscar ajuda → "Você não precisa saber tudo. Precisa saber
+por onde começar."**
+
+1. "Seu filho acordou quente às 3 da manhã. Por onde começar?"
+2. "Ele caiu do sofá e chorou na hora. E agora?"
+3. "Vomitou depois do almoço. O que observar primeiro?"
+4. "Comeu algo diferente e apareceram manchas na pele. Qual o próximo passo?"
+5. "A avó ligou: 'ele bateu a cabeça'. O que você pergunta pra ela?"
+
+Revise o conteúdo clínico de cada episódio antes de gravar.

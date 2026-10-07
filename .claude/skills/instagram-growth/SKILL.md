@@ -23,22 +23,42 @@ compradores do produto digital lançado na mega aula.**
 - Planos e roteiros: `estrategia/` neste repositório.
 - Vídeos a agendar: pasta do Drive "Reels para agendar - Instagram"
   (id `15TjC70ZHYkcdNi3mznS0uCn1QE7vrEBY`).
-- Produto: R$ 497, lançado em mega aula. Sem ManyChat e sem tráfego pago
-  ainda (out/2026); meta do Israel: 3.000 inscritos.
+- Sem ManyChat e sem tráfego pago ainda (out/2026).
+
+## Produto: Programa Casa Segura
+
+- Programa online de 3 meses para pais e cuidadores (avós, babás) não
+  começarem do zero quando a criança passa mal ou se machuca.
+- **Método PCS:** Perceber → Classificar → Seguir. Ferramenta central:
+  **GPS PCS | Matriz do Próximo Passo** (situação → sinais → próximo passo).
+- Fases: Percepção Segura · Leitura dos Sinais · Próximo Passo ·
+  Escalonamento Seguro. Aulas gravadas + encontros quinzenais ao vivo +
+  grupo de WhatsApp.
+- Primeira turma (validação): **R$ 497**, garantia de 7 dias, vagas limitadas
+  pela capacidade real de acompanhamento. Sem escassez ou prazo falsos.
+- Frases-âncora: "Você não precisa saber tudo. Precisa saber por onde
+  começar." · "Quando uma criança passa mal, não é hora de aprender. É hora
+  de lembrar."
+- Detalhes da aula e da oferta: `estrategia/mega-aula-casa-segura.md`.
 
 ## Regras de conteúdo
 
 1. Todo post responde a: "o que um pai/mãe deve FAZER (ou não fazer) quando…".
    Fé, casamento, produtividade e vida pessoal só entram como tempero dentro de
    um conteúdo do nicho — nunca como tema do post.
-2. Gancho nos 2 primeiros segundos / no slide 1: situação de medo concreta +
-   promessa ("Seu filho engasgou. Você tem 4 minutos. Faça isso.").
+2. Gancho nos 2 primeiros segundos / no slide 1: situação concreta do dia a
+   dia + o próximo passo ("Seu filho acordou quente às 3 da manhã. Por onde
+   começar?"). **Tom de preparação e calma, nunca de pânico.** A emoção é o
+   amor ("quero saber o que fazer quando ele precisar de mim"), não o terror.
+   Sempre que couber, mostre o PCS em ação: Perceber → Classificar → Seguir.
 3. Cada peça precisa de um motivo para **salvar** (checklist, passo a passo) ou
    **compartilhar** ("manda pra quem tem filho pequeno"). Esses são os sinais
    que mais distribuem para não seguidores.
 4. CTA por palavra-chave no comentário/DM (ex.: "comenta MANUAL") em vez de
    "siga o perfil" genérico. Varie as legendas — nunca repita a mesma legenda.
-5. Saúde exige responsabilidade: siga orientações da SBP/AHA/Cruz Vermelha,
+5. Nunca prometer diagnóstico, "salvar vidas" ou substituir o pediatra.
+   Linguagem: preparar, organizar, decidir o próximo passo, saber quando
+   buscar ajuda. Saúde exige responsabilidade: siga orientações da SBP/AHA/Cruz Vermelha,
    sempre "em emergência ligue 192 (SAMU)", sem alarmismo nem promessa de cura.
    Não usar imagem real de criança ferida.
 6. Nada de compra de seguidores, follow/unfollow em massa ou pods de
