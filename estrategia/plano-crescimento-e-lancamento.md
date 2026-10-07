@@ -115,52 +115,42 @@ Com 1.082 seguidores, o orgânico sozinho não lota uma mega aula. Recomendo:
   R$ 50–100/dia, criativos = seus reels que mais tiveram compartilhamento.
   Custo por inscrito esperado no nicho: R$ 2–6.
 
-## 4. Lançamento — Mega Aula
+## 4. Lançamento — Mega Aula ✅ data confirmada
 
-> Ajuste quando você me confirmar: tema exato do produto, preço e data.
-> Sugestão de data: **quinta, 12/11/2026, 20h** (5 semanas de preparação,
-> antes da temporada de férias e festas — quando o medo de acidente é maior).
+**Quinta, 28/01/2027, às 20h.** Turma começa após o Carnaval (09/02/2027).
+Calendário semana a semana: `calendario-ate-28-01.md`.
+Roteiro da aula e oferta: `mega-aula-casa-segura.md`.
 
-**Nome sugerido:** _"Os 5 Minutos Que Salvam: o que fazer quando seu filho se
-machuca, engasga ou passa mal"_
+**Nome:** _"Por Onde Começar: o que fazer nos primeiros minutos quando seu
+filho passa mal"_
 
 **Funil**
 
 ```
-Reels/Trial Reels/Collabs/Anúncio
+Reels / Trial Reels / impulsionamento (R$ 10/dia)
         ↓
-Palavra-chave no comentário → DM automática
+Palavra-chave no comentário (ManyChat) → DM com conteúdo útil
         ↓
-Página de inscrição (nome + WhatsApp)
+Palavra LISTA → nome + WhatsApp (a partir do fim de dezembro)
         ↓
-Grupo/Canal de WhatsApp (aquecimento diário)
+Grupo/Canal de WhatsApp (aquecimento de 2 semanas)
         ↓
-MEGA AULA AO VIVO (60–75 min: 45 de conteúdo, 20 de oferta)
+MEGA AULA AO VIVO 28/01 20h (75 min)
         ↓
-Carrinho aberto 5 dias (bônus para quem compra na aula)
+Carrinho aberto 28/01 a 02/02
 ```
 
-**Cronograma**
+**Metas até 28/01/2027**
 
-| Fase | Datas | O que acontece |
+| Métrica | Hoje (07/10) | Meta |
 |---|---|---|
-| 0. Arrumar a casa | 08–11/10 | Bio, destaques, fixados, limpar seguindo, trocar legendas agendadas |
-| 1. Crescimento | 12/10–25/10 | 2 reels/dia, 2 collabs/semana, impulsionamento leve. Dia das Crianças = conteúdo-bomba |
-| 2. Captação | 26/10–11/11 | Todo conteúdo termina com "comenta AULA". Anúncio de cadastro. Stories diários com contagem regressiva |
-| 3. Aquecimento | 05–11/11 | Grupo de WhatsApp: 1 conteúdo/dia, enquetes, "qual sua maior dúvida?" |
-| 4. Mega Aula | 12/11 20h | Lembretes: 24h, 3h, 1h, 15 min, "estamos ao vivo" |
-| 5. Carrinho | 12–17/11 | Depoimentos, quebra de objeções, live de dúvidas, último dia com escassez real |
-
-**Metas realistas**
-
-| Métrica | Meta até 12/11 |
-|---|---|
-| Seguidores | 1.082 → **3.000+** (com tráfego) |
-| Alcance médio por reel | 300 → **2.000+** |
-| Compartilhamentos por reel | 2 → **20+** |
-| Inscritos na aula | **500** (≈ 150 orgânicos + 350 do anúncio) |
-| Presentes ao vivo | 30–40% → **150–200** |
-| Vendas | 5–10% dos presentes → **10–20 vendas** no 1º lançamento |
+| Seguidores | 1.082 | **3.000+** |
+| Alcance médio por Reel | ~300 | **1.500+** |
+| Compartilhamentos por Reel | 0–4 | **15+** |
+| Contatos no ManyChat | 0 | **800+** |
+| Inscritos na aula | 0 | **300–600** |
+| Presentes ao vivo | — | **100–180** |
+| Vendas (turma de validação) | — | **20–30 famílias** |
 
 "Venda é do tamanho do Instagram" — em parte. Mais exato: **venda é do
 tamanho da sua lista de inscritos e da confiança que eles têm em você.** O
@@ -211,7 +201,7 @@ Arrasta e salva — você vai querer ter isso à mão.
   diretamente. Pelo Metricool consigo ler os resultados do Meta Ads (se você
   conectar a conta de anúncios lá) e montar cada campanha passo a passo para
   você só clicar.
-- **Meta de 3.000 inscritos:**
+- **Meta de 3.000 inscritos** (superado: ver seções 8 e 9):
 
   | Cenário | Data da aula | Verba de anúncio | Inscritos esperados |
   |---|---|---|---|
@@ -253,7 +243,7 @@ Arrasta e salva — você vai querer ter isso à mão.
   então nada se perde, mas a meta principal é lotar a turma 1 com folga.
 - Roteiro da aula e da oferta: `estrategia/mega-aula-casa-segura.md`.
 
-## 9. Nova linha do tempo (proposta de 07/10, aguardando confirmação)
+## 9. Linha do tempo ✅ confirmada em 07/10
 
 12/11 e 19/11 ficaram curtos. Proposta: **mega aula na quinta, 28/01/2027,
 às 20h**, nas férias escolares, quando as crianças estão em casa e o tema

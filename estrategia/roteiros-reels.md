@@ -98,8 +98,8 @@ técnico pelo conteúdo.
 ## 12. Bastidores / autoridade (1 por semana)
 - **Gancho:** "Por que eu decidi ensinar pais a agir em emergência."
 - **Fala:** sua história real em 30 s — o momento que te fez entender que pais
-  travam por falta de preparo, não por falta de amor. Termina com: "Dia 12/11
-  eu vou dar uma aula gratuita sobre isso. Comenta AULA."
+  travam por falta de preparo, não por falta de amor. Termina com: "Dia 28/01
+  eu vou dar uma aula gratuita sobre isso. Comenta LISTA."
 
 ---
 

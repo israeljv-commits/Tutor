@@ -23,7 +23,10 @@ compradores do produto digital lançado na mega aula.**
 - Planos e roteiros: `estrategia/` neste repositório.
 - Vídeos a agendar: pasta do Drive "Reels para agendar - Instagram"
   (id `15TjC70ZHYkcdNi3mznS0uCn1QE7vrEBY`).
-- Sem ManyChat e sem tráfego pago ainda (out/2026).
+- **Mega aula confirmada: quinta, 28/01/2027, 20h.** Turma 1 começa em
+  09/02/2027. Calendário: `estrategia/calendario-ate-28-01.md`.
+- Verba de anúncio: ~R$ 10/dia. ManyChat e Meta Ads sendo conectados em
+  out/2026. Mensagens das automações: `estrategia/automacoes-dm.md`.
 
 ## Produto: Programa Casa Segura
 
