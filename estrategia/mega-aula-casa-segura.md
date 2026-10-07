@@ -30,7 +30,7 @@ valor antes da aula e aumenta a presença ao vivo.
 | 3. Sua história | 12–18 | Por que você criou isso. Autoridade sem arrogância | Confiança |
 | 4. As 3 crenças que travam | 18–28 | (a) "Só médico sabe o que fazer" (b) "Eu vou lembrar na hora" (c) "Na internet tem tudo" | Quebrar objeções antes da oferta |
 | 5. O Método PCS | 28–45 | **Perceber** o que está acontecendo · **Classificar** os sinais · **Seguir** para o próximo passo (incluindo saber quando buscar ajuda) | Entregar valor real |
-| 6. Aplicação ao vivo | 45–55 | Cenário: "3 da manhã, seu filho acorda quente e choroso". Rodar o PCS com a plateia votando no chat | Provar que funciona |
+| 6. Aplicação ao vivo | 45–55 | Cenário: "3 da manhã, seu filho acorda quente e choroso". Rodar o PCS com a plateia votando no chat e, no fim, **mostrar o mesmo cenário no app Casa Segura** (tela compartilhada) | Provar que funciona e mostrar a ferramenta |
 | 7. A ponte | 55–58 | "Hoje você aprendeu a sequência. Mas quando a criança passa mal, não é hora de aprender. É hora de lembrar. E lembrar exige prática." | Abrir a necessidade do programa |
 | 8. Oferta | 58–68 | Apresentação do Programa Casa Segura (abaixo) | Venda |
 | 9. Perguntas e fechamento | 68–75 | Dúvidas, garantia, últimas vagas reais, link | Conversão |
@@ -41,7 +41,9 @@ valor antes da aula e aumenta a presença ao vivo.
    começar do zero quando o imprevisto aparecer.
 2. **As 4 fases:** Percepção Segura → Leitura dos Sinais → Próximo Passo →
    Escalonamento Seguro, mais o Módulo 00 "Comece por Aqui".
-3. **Ferramentas:** GPS PCS (Matriz do Próximo Passo), Mapa Casa Segura,
+3. **Ferramentas:** **app Casa Segura**, o GPS PCS no celular: funciona
+   sem internet, com semáforo, botão 192 fixo e contatos do pediatra,
+   incluído por 90 dias (renovação opcional de R$ 97/ano). Também: Mapa Casa Segura,
    Cartão de Sinais Importantes, Caderno de Cenários Práticos, Plano
    Familiar de Resposta e Cartão de Contatos.
 4. **Acompanhamento:** encontros ao vivo quinzenais para simular, praticar e

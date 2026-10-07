@@ -39,6 +39,11 @@ compradores do produto digital lançado na mega aula.**
 - Frases-âncora: "Você não precisa saber tudo. Precisa saber por onde
   começar." · "Quando uma criança passa mal, não é hora de aprender. É hora
   de lembrar."
+- **App Casa Segura** (PWA, https://casa-segura-beta.vercel.app): o GPS PCS
+  no celular, com 5 fluxos (convulsão, febre, engasgo, corte, queda), semáforo,
+  botão 192, funciona offline, 90 dias incluídos no programa e renovação de
+  R$ 97/1 ano ou R$ 147/2 anos. Em conteúdo, mostrar como ferramenta de
+  organização ("orientação"), nunca como diagnóstico.
 - Detalhes da aula e da oferta: `estrategia/mega-aula-casa-segura.md`.
 
 ## Regras de conteúdo
