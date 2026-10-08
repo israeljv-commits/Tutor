@@ -5,6 +5,11 @@ Anúncios. O agente escolhe o post, o público e lê os resultados no Metricool.
 
 ## Situação em 08/10/2026
 
+Conta de anúncios souisraelvieira (297959929033454): cartão Visa cadastrado,
+cobrança a cada R$ 10 gastos, limite de gastos da conta R$ 100 (trava de
+segurança, aumentar quando precisar). Sem saldo pré-pago.
+
+
 Nenhum Reel orgânico se destacou nos últimos 60 dias (alcance de 2 a 475,
 0 a 4 compartilhamentos). Os do nicho com melhor alcance: 30/09 (317 e 182).
 Não vale turbinar nenhum antigo. O dinheiro vai para o vencedor dos Trials
