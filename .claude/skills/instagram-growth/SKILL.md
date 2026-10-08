@@ -11,6 +11,9 @@ compradores do produto digital lançado na mega aula.**
 
 ## Contexto fixo
 
+- Israel é **médico pediatra** e valida pessoalmente todo conteúdo clínico
+  (posts, DMs, app). Publicidade segue as regras do CFM (Res. 2.336/2023):
+  sem promessa de resultado, sem antes/depois, sem sensacionalismo.
 - Conta: `@souisraelvieira` · Metricool brand id `7281648` · fuso `America/Sao_Paulo`
 - Nicho (NÃO sair dele): **pais e mães que querem saber agir quando o filho se
   machuca, engasga, cai, queima, tem febre alta ou sofre acidente em casa** —

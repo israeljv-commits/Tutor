@@ -25,8 +25,9 @@ Pedimos um **parecer por escrito** respondendo:
    app **fora** do escopo de regularização, mantendo sua utilidade como
    material de apoio de um curso educativo? (Ver a seção 8.)
 4. Há outros pontos de atenção: CDC, LGPD (dados de saúde de crianças),
-   publicidade de saúde e, se aplicável, as normas do conselho profissional
-   do responsável?
+   publicidade de saúde e, como o responsável é médico pediatra, as normas
+   do CFM sobre publicidade médica (Resolução CFM 2.336/2023) e sobre
+   orientação a distância?
 
 ## 2. Responsável
 
@@ -36,7 +37,7 @@ Pedimos um **parecer por escrito** respondendo:
 | CNPJ | 32.438.993/0001-74 |
 | Cidade | Jundiaí/SP |
 | Contato (consta nos Termos) | israeljvieira@hotmail.com |
-| Formação do responsável pelo conteúdo | [PREENCHER: profissão e registro no conselho, se houver] |
+| Responsável técnico pelo conteúdo | Israel Vieira, médico pediatra, CRM-SP [PREENCHER número] e RQE [PREENCHER] |
 
 ## 3. Contexto: o produto em que o app está inserido
 
@@ -177,7 +178,8 @@ Termos de Uso e Política de Privacidade completos dentro do app, com o botão
 2. **Processamento de dados da criança.** O fluxo de febre calcula as horas
    de febre a partir da data e hora informadas e usa a idade e a temperatura.
    O fluxo de queda usa a idade e a altura para aplicar um limiar.
-3. **Rascunhos em validação clínica:** o texto de RCP no engasgo, os limites
+3. **Rascunhos em validação clínica** (feita pelo próprio responsável, como
+   pediatra): o texto de RCP no engasgo, os limites
    de altura na queda (0,9 m abaixo de 2 anos; 1,5 m a partir de 2 anos) e a
    conduta para febre entre 24 e 48 horas.
 
