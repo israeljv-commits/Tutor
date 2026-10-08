@@ -8,6 +8,9 @@ depois que o Reel publicar).
 Carrosséis já agendados: 09, 10 e 14/10 às 10h; 11 e 13/10 às 10h30;
 12/10 às 19h. Os Reels entram às 18h nesses dias para não competir.
 
+**Todos são Trial Reels** (pedido do Israel): vão só para não seguidores;
+compartilhar com seguidores manualmente os que forem bem em 72 h.
+
 **Status no Metricool (08/10):** agendados #1, #4, #6, #2, #3 e #7 (Trial).
 #5 falhou: arquivo de 85 MB grande demais para o Metricool puxar do Drive.
 Comprimir ou subir direto no app.
