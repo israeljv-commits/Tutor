@@ -8,10 +8,14 @@ Revise o conteúdo clínico antes de ativar.
 1. **ManyChat** (plano gratuito): conectar o Instagram → Automação →
    "Comentário com palavra-chave" → escolher "qualquer post/reel" → palavra
    abaixo → "Responder no comentário" + "Enviar DM".
-2. **Meta Business Suite** (app baixado): Caixa de entrada → Automações →
-   "Palavras-chave personalizadas" → mesmas palavras, para quem mandar direto
-   no direct. Serve de reserva se o ManyChat cair.
-3. Resposta pública no comentário (varie entre as 3, assim o Instagram não
+2. **Meta Business Suite:** não criar as mesmas palavras lá enquanto o
+   ManyChat estiver ativo, senão a pessoa recebe duas respostas. Só usar se
+   o ManyChat for desligado.
+3. **Plano grátis do ManyChat:** a automação de comentário só vale para um
+   post específico. Criar logo depois que o Reel for publicado. A automação
+   "Palavra-chave na DM" vale para qualquer mensagem. Legenda: "Comenta X ou
+   me manda X no direct". Avaliar o Pro na fase LISTA (28/12).
+4. Resposta pública no comentário (varie entre as 3, assim o Instagram não
    vê como spam):
    - "Te mandei no direct! 💛"
    - "Enviado! Dá uma olhada na sua DM 📩"
