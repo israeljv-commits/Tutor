@@ -12,8 +12,8 @@ Carrosséis já agendados: 09, 10 e 14/10 às 10h; 11 e 13/10 às 10h30;
 compartilhar com seguidores manualmente os que forem bem em 72 h.
 
 **Status no Metricool (08/10):** agendados #1, #4, #6, #2, #3 e #7 (Trial).
-#5 falhou: arquivo de 85 MB grande demais para o Metricool puxar do Drive.
-Comprimir ou subir direto no app.
+#5: o Israel posta manualmente pelo Instagram em 15/10 às 10h, como Trial
+(a versão comprimida perdeu qualidade).
 
 | Data | Hora | Vídeo (Drive) | Legenda | Palavra |
 |---|---|---|---|---|
