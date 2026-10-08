@@ -1,4 +1,4 @@
-# Reels gravados em 08/10: legendas e agenda (09 a 16/10)
+# Reels gravados em 08/10: legendas e agenda (08 a 16/10)
 
 Vídeos na pasta do Drive "Reels para agendar - Instagram". Legendas do
 Israel, com ajustes: CTA de palavra-chave ligado às automações do ManyChat
@@ -8,11 +8,15 @@ depois que o Reel publicar).
 Carrosséis já agendados: 09, 10 e 14/10 às 10h; 11 e 13/10 às 10h30;
 12/10 às 19h. Os Reels entram às 18h nesses dias para não competir.
 
+**Status no Metricool (08/10):** agendados #1, #4, #6, #2, #3 e #7 (Trial).
+#5 falhou: arquivo de 85 MB grande demais para o Metricool puxar do Drive.
+Comprimir ou subir direto no app.
+
 | Data | Hora | Vídeo (Drive) | Legenda | Palavra |
 |---|---|---|---|---|
-| Sex 09/10 | 18h | peste na russia | #1 | FEBRE |
+| Qui 08/10 | 18h | peste na russia | #1 | FEBRE |
+| Sex 09/10 | 18h | pediatra nenhum te falou: Mel… | #4 | EU (só comentário) |
 | Sáb 10/10 | 18h | ingestao de pilhas e baterias | #6 | PRESENTE |
-| Dom 11/10 | 18h | pediatra nenhum te falou: Mel… | #4 | EU (só comentário) |
 | Seg 12/10 | 10h | Dia das Crianças (a gravar) | roteiro-dia-das-criancas.md | PRESENTE |
 | Seg 12/10 | 18h | Trial Reel do Dia das Crianças | gancho alternativo | PRESENTE |
 | Ter 13/10 | 18h | engasgo <1ano | #2 | ENGASGO |
@@ -22,7 +26,7 @@ Carrosséis já agendados: 09, 10 e 14/10 às 10h; 11 e 13/10 às 10h30;
 
 ---
 
-## #1 Peste (09/10, 18h)
+## #1 Peste (08/10, 18h)
 
 Notícia: conferir antes de postar se não houve confirmação nova. Fontes de
 05–06/10: [SBT News](https://sbtnews.sbt.com.br/noticia/mundo/peste-oms-nao-encontra-indicios-de-mais-infeccoes-na-russia),
@@ -54,14 +58,14 @@ Pilha-botão está em controle remoto, brinquedo e chaveiro. Se uma criança eng
 🚫 Não espere sintoma e não induza vômito
 🚑 Vá imediatamente ao pronto-socorro
 
-Vai dar presente amanhã? Comenta PRESENTE que eu te mando o teste de 5 segundos pra conferir se o brinquedo é seguro. Casa Segura #6.
+Vai dar presente no Dia das Crianças? Comenta PRESENTE que eu te mando o teste de 5 segundos pra conferir se o brinquedo é seguro. Casa Segura #6.
 
 Siga o @souisraelvieira e acompanhe conteúdos práticos para estar mais preparado quando seu filho precisar de você.
 
 #pilhabotao #diadascriancas #pediatria #casasegura #maternidade
 ```
 
-## #4 Mel (11/10, 18h)
+## #4 Mel (09/10, 18h)
 
 ```
 Pediatra nenhum te falou isso? 🍯
