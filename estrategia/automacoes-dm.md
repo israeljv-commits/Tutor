@@ -114,3 +114,70 @@ Pronto, você está na lista! ✅
 Vou te avisar pelo WhatsApp com a data e o link.
 Enquanto isso, me segue aqui para não perder os conteúdos da semana.
 ```
+
+## CASA (checklist da casa) — aprovado pelo Israel em 10/10
+
+```
+Oi! Aqui está a checklist para revisar sua casa 🏠
+
+1. Produtos de limpeza e remédios: sempre em armário alto e trancado.
+2. Pilha-botão e ímã pequeno: fora do alcance, inclusive controles e brinquedos.
+3. Cordinha de cortina e de persiana: presa no alto, longe do berço.
+4. Cabo de panela: virado para dentro do fogão.
+5. Tomada: com protetor ou tampa.
+
+Faz a revisão hoje e manda pra quem cuida do seu filho. 💛
+Em emergência, ligue 192 (SAMU).
+```
+
+## PICADA (animais peçonhentos) — aprovado pelo Israel em 10/10
+
+```
+Oi! Picada de animal é um momento de pânico, então vamos por partes. 🐍
+
+Faça:
+1. Afaste a criança do animal, com calma.
+2. Lave o local com água e sabão, se der.
+3. Anote a hora e tire uma foto do animal, se for seguro.
+4. Leve ao atendimento, mesmo que pareça leve.
+
+Não faça:
+• Não corte nem chupe o local.
+• Não aplique torniquete.
+• Não coloque gelo nem pasta.
+
+Em emergência, ligue 192 (SAMU). Para orientação sobre o veneno, ligue 0800 722 6001. 💛
+```
+
+## VIAGEM (antes de sair de casa) — aprovado pelo Israel em 10/10
+
+```
+Oi! Antes de viajar com as crianças, faça esta checagem: ✈️🚗
+
+1. Carteirinha de vacina e documentos da criança na bolsa.
+2. Remédios de uso contínuo, com a receita, e os que o pediatra indicou.
+3. Lista de telefones: pediatra, 192 e o hospital mais próximo do destino.
+4. No carro: cadeirinha correta, presa e na altura certa. Nunca solte a criança no colo.
+5. Nunca deixe a criança sozinha dentro do carro, nem por um minuto.
+
+Manda pra quem vai viajar com você. 💛
+Em emergência, ligue 192 (SAMU).
+```
+
+## QUEIMADURA (primeiros cuidados) — aprovado pelo Israel em 10/10
+
+```
+Oi! Queimou seu filho? Antes de fazer qualquer coisa, respire. 🔥
+
+Faça:
+1. Passe água corrente fria (não gelada) por 20 minutos.
+2. Tire anel e roupa que não estejam grudados.
+3. Cubra com um pano limpo e seco.
+
+Não faça:
+• Não passe pasta de dente, manteiga ou gelo.
+• Não estoure bolha.
+
+Vá ao atendimento se for no rosto, nas mãos, nos genitais ou maior que a palma da mão da criança.
+Em emergência, ligue 192 (SAMU). 💛
+```
