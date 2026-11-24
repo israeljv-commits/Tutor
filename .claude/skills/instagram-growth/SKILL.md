@@ -11,7 +11,7 @@ compradores do produto digital lançado na mega aula.**
 
 ## Contexto fixo
 
-- Israel é **médico pediatra** e valida pessoalmente todo conteúdo clínico
+- Israel é **médico pós graduado em pediatria neonatologia ** e valida pessoalmente todo conteúdo clínico
   (posts, DMs, app). Publicidade segue as regras do CFM (Res. 2.336/2023):
   sem promessa de resultado, sem antes/depois, sem sensacionalismo.
 - Conta: `@souisraelvieira` · Metricool brand id `7281648` · fuso `America/Sao_Paulo`
